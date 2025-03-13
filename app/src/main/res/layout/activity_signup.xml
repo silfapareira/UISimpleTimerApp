@@ -14,9 +14,9 @@
         android:id="@+id/signup"
         android:text="Sign Up"
         android:textColor="@color/white"
-        android:textSize="36dp"
+        android:textSize="35dp"
         android:textStyle="bold"
-        android:layout_margin="50dp"
+        android:layout_margin="51dp"
         android:gravity="center"/>
 
     <EditText
